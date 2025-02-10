@@ -3,7 +3,7 @@
 
 ### 🚀 Sobre mí 
 - 👀 Me motiva entender el por qué de las cosas, me considero observador, cuiroso, comprometido y colaborador  
-- 🌱 Actualmente en busqueda nuevos desafíos laborales y tambíen desarrollando proyectos personales de Data Science and Machine Learning
+- 🌱 Actualmente en busqueda nuevos desafíos laborales y tambíen desarrollando proyectos personales de Data Science y Machine Learning
 - 💞️ Quiero impactar mi entorno, a través de mi trabajo y con eso cambiar el mundo
 - ⚡ Fun fact: Amante del trekking y tambien de pedalear
 
